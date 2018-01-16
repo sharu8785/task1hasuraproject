@@ -1,7 +1,7 @@
 - alias: hasura
   config:
     configmap: controller-conf
-    namespace: hasura
+    namespace: begat25-hasura
   data: null
-  kubeContext: histology63
-  name: histology63
+  kubeContext: begat25
+  name: begat25
